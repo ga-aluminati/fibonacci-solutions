@@ -1,6 +1,6 @@
 ## fibonacci-solutions
 
-The infamous fibonacci sequence solved o(n) in various programming languages
+The infamous fibonacci sequence solved o(n) in various programming languages.
 
 ### What is the Fibonacci Sequence?
 
