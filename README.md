@@ -2,7 +2,7 @@
 
 The infamous fibonacci sequence solved o(n) in various programming languages.
 
-### What is the Fibonacci Sequence?
+### What is it?
 
 The Fibonacci Sequence is the series of numbers:
 
