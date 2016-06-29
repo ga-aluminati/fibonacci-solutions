@@ -1,4 +1,4 @@
-## fibonacci-solutions
+## The Fibonacci Sequence in Different Programming Languages
 
 The infamous fibonacci sequence solved o(n) in various programming languages.
 
@@ -13,10 +13,6 @@ The next number is found by adding up the two numbers before it.
 * The 2 is found by adding the two numbers before it (1+1)
 * Similarly, the 3 is found by adding the two numbers before it (1+2)
 * And the 5 is (2+3)
-
-### Solutions
-
-* JavaScript
 
 ### Reference
 
